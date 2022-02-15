@@ -1,0 +1,9 @@
+{
+  "name": "tp-link-smart-switch-client",
+  "version": "0.0.0",
+  "description": "tp-link-smart-switch-client",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
